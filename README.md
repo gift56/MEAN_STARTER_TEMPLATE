@@ -35,8 +35,8 @@ Follow these steps to get the application up and running.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd task-manager
+git clone [[<your-repo-url>]()](https://github.com/gift56/MEAN_STARTER_TEMPLATE.git)
+cd tMEAN_STARTER_TEMPLATE
 ```
 
 ### 2. Setup Backend
